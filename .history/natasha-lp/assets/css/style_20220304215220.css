@@ -80,24 +80,16 @@ header {
 }
 
 .container section {
-    margin-left: 15.111rem;
+    margin-left: 14.5rem;
 }
 
 .natasha_img {
     position: relative;
-    width: 28.599rem;
-    height: 40.001rem;
 }
-
 .natasha_img h1 {
-    position: absolute;
-    left: -6.5rem;
-    bottom: -8rem;/*3.611rem*/
+    left: 7.938rem;
+    bottom: 8.25rem;
+    position: fixed;
     writing-mode: vertical-rl;
     transform: rotate(180deg);
-    font-weight: 900;
-    font-size: 10.452rem;
-    line-height: 13.25rem;
-    letter-spacing: -0.7rem;
-    text-shadow: -3px -9px 0 #6bc8e1;
 }

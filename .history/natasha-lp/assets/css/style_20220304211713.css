@@ -64,40 +64,16 @@ header {
 
 .side_nav {
     position: fixed;
-    bottom: 6.313rem;
+    bottom: 0;
     left: 0;
     display: flex;
-    writing-mode: vertical-rl;
-    transform: rotate(180deg);
+    writing-mode: vertical-lr;
 }
 
 .side_nav li {
-    padding: 1.438rem 4.65rem;
+    padding: 1.438rem 1.438rem;
 }
 
 .side_nav li a {
     color: #000000;
-}
-
-.container section {
-    margin-left: 15.111rem;
-}
-
-.natasha_img {
-    position: relative;
-    width: 28.599rem;
-    height: 40.001rem;
-}
-
-.natasha_img h1 {
-    position: absolute;
-    left: -6.5rem;
-    bottom: -8rem;/*3.611rem*/
-    writing-mode: vertical-rl;
-    transform: rotate(180deg);
-    font-weight: 900;
-    font-size: 10.452rem;
-    line-height: 13.25rem;
-    letter-spacing: -0.7rem;
-    text-shadow: -3px -9px 0 #6bc8e1;
 }

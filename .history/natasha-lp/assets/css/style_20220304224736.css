@@ -99,5 +99,13 @@ header {
     font-size: 10.452rem;
     line-height: 13.25rem;
     letter-spacing: -0.7rem;
-    text-shadow: -3px -9px 0 #6bc8e1;
+    text-shadow: 0 1px 0 #6BC8E1;
+    , 0 2px 0 #ccc,
+                     0 3px 0 #ccc, 0 4px 0 #ccc,
+                     0 5px 0 #ccc, 0 6px 0 #ccc,
+                     0 7px 0 #ccc, 0 8px 0 #ccc,
+                     0 9px 0 #ccc, 0 10px 0 #ccc,
+                     0 11px 0 #ccc, 0 12px 0 #ccc,
+                     0 20px 30px rgba(107, 200, 225, 1);
+                     ;
 }
