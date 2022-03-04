@@ -1,0 +1,40 @@
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    padding: 72px 75px;
+    padding-bottom: 94px;
+}
+
+nav {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+.nav_text li {
+    padding: 23px;
+    color: black;
+}
+
+.nav_text li a {
+    
+}
+.nav_icon li {
+    padding: 13px;
+}

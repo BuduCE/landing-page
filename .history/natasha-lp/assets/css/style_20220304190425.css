@@ -1,0 +1,43 @@
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+}
+header, nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    padding: 72px 75px;
+    padding-bottom: 94px;
+}
+
+nav {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+.nav_text li {
+    padding: 23px;
+}
+
+.nav_text li a {
+    color: black;
+}
+
+.nav_icon li {
+    padding: 13px;
+}

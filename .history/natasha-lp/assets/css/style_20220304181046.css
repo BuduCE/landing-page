@@ -1,0 +1,21 @@
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header, nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+nav li {
+    list
+}
+nav li a {
+    text-decoration: none;
+}
