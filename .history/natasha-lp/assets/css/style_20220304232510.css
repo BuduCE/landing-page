@@ -81,7 +81,6 @@ header {
 
 .container section {
     margin-left: 15.111rem;
-    display: flex;
 }
 
 .natasha_img {
@@ -109,8 +108,3 @@ header {
     transform: rotate(180deg);
 }
 
-.short_line {
-    width: 3px;
-    height: 128px;
-    background:#6bc8e1;
-}

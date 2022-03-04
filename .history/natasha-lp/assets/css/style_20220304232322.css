@@ -81,7 +81,6 @@ header {
 
 .container section {
     margin-left: 15.111rem;
-    display: flex;
 }
 
 .natasha_img {
@@ -103,14 +102,6 @@ header {
     text-shadow: -3px -9px 0 #6bc8e1;
 }
 
-.mid_nav {
-    display: flex;
-    writing-mode: vertical-rl;
-    transform: rotate(180deg);
-}
+.mid {
 
-.short_line {
-    width: 3px;
-    height: 128px;
-    background:#6bc8e1;
 }
