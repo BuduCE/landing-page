@@ -120,7 +120,7 @@ header {
     transform: rotate(180deg);
     /* padding: 150px; */
     position: absolute;
-    left: 0;
+    left: px;
     ;
 }
 

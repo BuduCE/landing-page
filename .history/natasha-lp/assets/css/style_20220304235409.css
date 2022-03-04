@@ -94,7 +94,7 @@ header {
 
 .natasha_i {
     width: 50%;
-    position: relative;
+    posi
 }
 .natasha_pics {
     width: 28.599rem;
@@ -119,9 +119,6 @@ header {
     writing-mode: vertical-rl;
     transform: rotate(180deg);
     /* padding: 150px; */
-    position: absolute;
-    left: 0;
-    ;
 }
 
 .short_line {

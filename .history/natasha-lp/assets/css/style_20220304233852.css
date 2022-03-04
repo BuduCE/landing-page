@@ -80,23 +80,17 @@ header {
 }
 
 .container section {
-    padding: 0 15.111rem;
+    margin-left: 15.111rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
 }
 
 .natasha_img {
     position: relative;
-    width: 50%;
 }
 
-.natasha_i {
-    width: 50%;
-    position: relative;
-}
-.natasha_pics {
+.natasha_img img {
     width: 28.599rem;
     height: 40.001rem;
 }
@@ -118,10 +112,6 @@ header {
     display: flex;
     writing-mode: vertical-rl;
     transform: rotate(180deg);
-    /* padding: 150px; */
-    position: absolute;
-    left: 0;
-    ;
 }
 
 .short_line {
