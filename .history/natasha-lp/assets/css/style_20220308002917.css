@@ -119,9 +119,9 @@ header {
     writing-mode: vertical-rl;
     transform: rotate(180deg);
     position: absolute;
+    left: 0;
     align-items: center;
     left: 53.25rem;
-    top: 20.75rem;
 }
 
 .short_line {
@@ -147,7 +147,7 @@ header {
     border: 0.063rem solid #C4C4C4;
     box-sizing: border-box;
     margin-top: 3.625rem;
-    width: 13.375rem;
+    width: 11.375rem;
     padding: 0.938rem 2.125rem;
 }
 
@@ -161,8 +161,6 @@ header {
 }
 
 .natasha_info_img img{
-    /* width: 14.125rem;
-    height: 10.188rem; */
     padding-right: 1.25rem;
 }
 

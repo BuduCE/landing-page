@@ -121,7 +121,7 @@ header {
     position: absolute;
     align-items: center;
     left: 53.25rem;
-    top: 20.75rem;
+    top: 22.75rem;
 }
 
 .short_line {
@@ -161,8 +161,6 @@ header {
 }
 
 .natasha_info_img img{
-    /* width: 14.125rem;
-    height: 10.188rem; */
     padding-right: 1.25rem;
 }
 
