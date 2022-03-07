@@ -136,8 +136,7 @@ header {
     font-weight: 900;
     font-size: 3.125rem;
     line-height: 3.938rem;
-    margin-top: 4.063rem;
-    margin-bottom: 2.063rem;
+    
 }
 
 .call_link{
@@ -147,8 +146,6 @@ header {
     color: #000000;
     border: 0.063rem solid #C4C4C4;
     box-sizing: border-box;
-    margin-top: 3.625rem;
-    width: 11.375rem;
 }
 
 .natasha_info p{

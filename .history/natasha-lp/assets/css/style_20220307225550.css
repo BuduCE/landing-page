@@ -121,50 +121,21 @@ header {
     /* padding: 150px; */
     position: absolute;
     left: 0;
-    align-items: center;
-    left: 53.25rem;
 }
 
 .short_line {
     width: 3px;
     height: 128px;
     background:#6bc8e1;
-    margin-bottom: 4.313rem;
 }
 
-.natasha_text_header{
+.natasha_text h1{
     font-weight: 900;
     font-size: 3.125rem;
     line-height: 3.938rem;
-    margin-top: 4.063rem;
-    margin-bottom: 2.063rem;
 }
 
 .call_link{
-    font-weight: 600;
-    font-size: 1.125rem;
-    line-height: 1.563rem;
-    color: #000000;
-    border: 0.063rem solid #C4C4C4;
+    border:  solid #C4C4C4;
     box-sizing: border-box;
-    margin-top: 3.625rem;
-    width: 11.375rem;
-}
-
-.natasha_info p{
-    width: 28.375rem;
-}
-
-.natasha_info_img{
-    display: flex;
-    margin-top: 1.875rem;
-}
-
-.natasha_info_img img{
-    padding-right: 1.25rem;
-}
-
-.view_all{
-    margin-top: 1.625rem;
-    color: #6BC8E1;
 }
