@@ -28,29 +28,19 @@ body {
 
 }
 
-.top_nav a {
-    color: #000000;
-}
-
 .pages_nav {
     display: flex;
     margin-right: 511.33px;
 }
 
 .pages_nav li {
-    margin-right: 42px;
-    padding-bottom: 7px;
-}
-
-.pages_nav li:hover {
-    border-bottom: 2px solid #000000;
+    
 }
 
 .call a {
     display: flex;
-    align-items: center;
 }
 
-.call a img {
-    margin-right: 7.64px;
-}
+/* .side_nav {
+
+} */

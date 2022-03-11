@@ -39,12 +39,10 @@ body {
 
 .pages_nav li {
     margin-right: 42px;
-    padding-bottom: 7px;
-}
-
-.pages_nav li:hover {
     border-bottom: 2px solid #000000;
 }
+
+.pages_nav li:hob
 
 .call a {
     display: flex;

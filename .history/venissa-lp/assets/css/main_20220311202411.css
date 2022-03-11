@@ -39,7 +39,7 @@ body {
 
 .pages_nav li {
     margin-right: 42px;
-    padding-bottom: 7px;
+    margin-bottom: 7px;
 }
 
 .pages_nav li:hover {

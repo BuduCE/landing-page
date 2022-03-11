@@ -1,0 +1,27 @@
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-family: 'Noto Serif Display', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+.top_nav {
+    display: flex;
+}
+
+.side-
